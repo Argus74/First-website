@@ -1,0 +1,26 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+   width: 300px;
+  height: 300px;
+
+}
+
+#modern {
+     width: 100px;
+  height: 100px;
+  /* outline: 1px solid red; */
+
+}
+
+#old {
+   width: 100px;
+  height: 100px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
